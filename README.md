@@ -37,7 +37,7 @@ General: Our solution is to create a convenient one app solution to controlling 
 
 **Anvita and Philip**: IoT heterogenous device solution, transforming the sensors, actuators, ect. into IoT devices
 
-**Jeffrey**: AR application, development of the app detects the IoT devices
+**Jeffrey**: AR application, development of the app that detects the IoT devices
 
 ## Schedule
 ![](https://github.com/ECE-597SD/Project-3/blob/main/media/gantt%20chart.PNG)
