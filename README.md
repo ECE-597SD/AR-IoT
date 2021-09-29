@@ -1,13 +1,41 @@
 # Project-3 - User Interaction with IoT Devices using Augmented Reality
 ## Motivation
-Current IoT solutions require a separate application for each IoT device, which makes managing and interacting with these devices tedious and challenging. 
-Additionally, smart home solutions to address accessability are meant to cater to everyone. Thus, increased convience is desired.
+Current IoT solutions require a separate application for each IoT device, which makes managing and interacting with these devices tedious and challenging. Additionally, smart home solutions to address accessibility are meant to cater to everyone. Thus, increased convenience is desired. 
 
-This leads us to our solution: a one-stop-shop AR application capable of automatically detecting IoT devices that displays data from the IoT device as well as the ability to configure and control them.
 
 ## Design Goals
+General: Our solution is to create a convenient one app solution to controlling and managing N IoT devices.
+
+1. Automatically detect IoT devices upon scan.
+2. Ability to configure IoT devices once detected.
+3. Abstract control using augmented reality.
 
 
+## Deliverables
+1. Create an AR app to configure and control IoT devices.
+2. Discover IoT devices automatically in AR.
+3. Visualize sensor data in AR.
+4. Control IoT devices through digital knobs in AR, and visualize its effects.
+5. IoT Devices
+
+## Hardware/Software Requirements
+#### Hardware:
+- Each IoT device shall communicate with the IoT main controller
+- Each IoT device shall be configured using the IoT main controller
+- IoT solutions shall be modular
+
+#### Software:
+- AR App shall detect unique identifiers using Unity Vuforia
+- AR App shall track each identified visually
+- AR App shall communicate with IoT Main Controller to distribute control commands
+
+## System Block Diagram
+![](https://github.com/ECE-597SD/Project-3/blob/main/media/IoT-block-v2.PNG)
+
+## Team Responsibilites
+Andrew and Aidas: IoT communication, development of the communication between the IoT devices and the AR application
+Anvita and Philip: IoT heterogenous device solution, transforming the sensors, actuators, ect. into IoT devices
+Jeffrey: AR application, development of the app detects the IoT devices
 
 ## Schedule
 ![](https://github.com/ECE-597SD/Project-3/blob/main/media/gantt%20chart.PNG)
