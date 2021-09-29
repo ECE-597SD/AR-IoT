@@ -44,8 +44,8 @@ General: Our solution is to create a convenient one app solution to controlling 
 We want to spend a majority of time on development phase and will work in an agile-like workflow.
 
 ## References
-[1] Browsing the Web of Things in Mobile Augmented Reality, HotMobile’19
+[1] T. Zachariah and P. Dutta, “Browsing the Web of Things in Mobile Augmented Reality,” Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications, 2019.
 
-[2] Browsing the Web of Connectable Things, EWSN’20 https://lab11.eecs.berkeley.edu/content/pubs/zachariah20summon.pdf 
+[2] T. Zachariah, J. Adkins, and P. Dutta, “Browsing the Web of Connectable Things.” [Online]. Available: https://lab11.eecs.berkeley.edu/content/pubs/zachariah20summon.pdf. 
 
 [3] Jo, D., Kim, G.J. IoT + AR: pervasive and augmented environments for “Digi-log” shopping experience. Hum. Cent. Comput. Inf. Sci. 9, 1 (2019)
