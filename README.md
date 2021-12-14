@@ -1,5 +1,5 @@
 # User Interaction with IoT Devices using Augmented Reality
-A proof of concept augemented reality application to control IoT devices.
+A proof of concept augemented reality application to configure, control, and use IoT devices
 
 ## IoT Hardware Setup
 ![Hardware Setup](media/hardware-setup.png)
@@ -20,3 +20,19 @@ A proof of concept augemented reality application to control IoT devices.
 Android: Download .apk file to phone and install
 
 iOS: Download app from Apple App Store (not published yet)
+
+## Manually Building App Instructions
+Contact team for full project source files
+### Android
+1. Connect phone to computer in USB Development mode
+2. Open project in Unity
+3. Go to File > Build Settings 
+4. Select Android as platform
+5. Select your device under "Run Device". 
+6. Build
+
+### iOS
+1. Go to File > Build Settings
+2. Select iOS as platform
+3. Build to Xcode to create Xcode project files
+4. Build to iPhone using Xcode project files.
