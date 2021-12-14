@@ -1,5 +1,5 @@
 # User Interaction with IoT Devices using Augmented Reality
-Augemented Reality Application to control IoT devices
+A proof of concept augemented reality application to control IoT devices
 
 ## IoT Hardware Setup
 ![Hardware Setup](media/hardware-setup.png)
@@ -20,13 +20,3 @@ Augemented Reality Application to control IoT devices
 Android: Download .apk file to phone and install
 
 iOS: Download app from Apple App Store (not published yet)
-
-## Developing Firmware
-Isolate the top-level data and functionality of your IoT device. Connect device into Particle Mesh Grove Shield. 
-
-In setup(), expose variables to track and functions to call using Particle API:
-- variables: Particle.variable({var_name})
-
-- functions: Particle.function({func_name})
-
-Implement functions to call and variables to update. In mainloop, call variable functions to update them. See [argon code](https://github.com/ECE-597SD/Project-3/blob/main/src/argon/ARIoT.ino) as template.
