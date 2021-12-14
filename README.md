@@ -1,5 +1,5 @@
 # User Interaction with IoT Devices using Augmented Reality
-A proof of concept augemented reality application to control IoT devices
+A proof of concept augemented reality application to control IoT devices.
 
 ## IoT Hardware Setup
 ![Hardware Setup](media/hardware-setup.png)
